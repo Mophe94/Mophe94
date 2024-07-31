@@ -3,8 +3,8 @@
 ## Hi there ! <img src="https://raw.githubusercontent.com/Surfi89/surfi89/main/img/Hi.gif" width="30px">
 ### Thanks for visiting!
 
-👨‍💻 Passionate about technology, travel ✈️, and food 🍕, I'm currently a student at 19 - 42 Network.   ![42](https://github.com/user-attachments/assets/a040bac3-9c4a-4dad-b064-d5c9aa098998)
- I love exploring new horizons, whether digital or culinary, and I'm always on the lookout for new adventures and learning opportunities! 🌍📚
+👨‍💻 Passionate about technology, travel ✈️, and food 🍕, I'm currently a student at 19 - 42 Network.   ![42](https://github.com/user-attachments/assets/a040bac3-9c4a-4dad-b064-d5c9aa098998)<br>
+ I love exploring new horizons, and I'm always on the lookout for new adventures and learning opportunities! 🌍📚
 
 <!---
 Mophe94/Mophe94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
