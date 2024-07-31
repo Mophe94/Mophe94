@@ -2,7 +2,6 @@
 
 
 👋 Hi, I’m @Mophe94<br>
-👀 I’m interested in a lot of things!<br>
 🌱 I’m currently learning the C language at Campus 19 - 42 Network.<br>
 💞️ I’m looking to collaborate on interesting projects.<br>
 📫 How to reach me: dylan-bajeux@hotmail.com<br>
