@@ -23,5 +23,5 @@ I'm Dylan, a software development student at 42 Belgium, currently in the specia
 
 ### 🌍 Hello world!
 
-- 🤝 Open to opportunities in backend development, cybersecurity, or technical project management
+- 🤝 Open to opportunities in backend development, or technical project management
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/dylan-bajeux) or [email](mailto:dylan-bajeux@hotmail.com)
